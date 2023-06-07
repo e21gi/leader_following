@@ -12,8 +12,12 @@
 
 ---
 2. 블럭도
+ 
+line tracer
+![image](https://github.com/e21gi/leader_following/assets/103232926/edb35b46-b940-4077-8da1-2cf1b1361977)
 
-![image](https://github.com/e21gi/leader_following/assets/103232926/979d9739-ba04-4b46-ab11-e4be1c9f3022)
+leader following 
+![image](https://github.com/e21gi/leader_following/assets/103232926/824264db-ad68-485b-bee2-364f9fe3551e)
 
 
 ---
