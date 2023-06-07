@@ -23,9 +23,14 @@ leader following
 ---
 3. 결과영상
 
-Yolo_Leader_Following 
+Yolo_Leader_Following (LANE)
 
 https://github.com/e21gi/leader_following/assets/103232926/7de4fbbc-eac3-4f13-abb1-7d2ee301f059
+
+Yolo_Leader_Following (LINE)
+
+https://github.com/e21gi/leader_following/assets/103232926/fac0dedd-3e2b-4f40-90a6-18cf567e8261
+
 
 
 ---
