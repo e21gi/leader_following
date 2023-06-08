@@ -17,7 +17,8 @@ line tracer
 ![image](https://github.com/e21gi/leader_following/assets/103232926/edb35b46-b940-4077-8da1-2cf1b1361977)
 
 leader following 
-![image](https://github.com/e21gi/leader_following/assets/103232926/824264db-ad68-485b-bee2-364f9fe3551e)
+![image](https://github.com/e21gi/leader_following/assets/103232926/4690be15-b6a0-4b7f-b258-cf9e0a32dec7)
+
 
 
 ---
